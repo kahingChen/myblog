@@ -1,0 +1,14 @@
+.title{
+    color: #999999;
+    margin-bottom: 50px;
+}
+.btn{
+    width: 100px;
+    margin-top: 50px;
+}
+.input-group, .input-group input{
+    height: 40px;
+}
+.container-fluid{
+    width: 80%;
+}
